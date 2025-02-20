@@ -6,4 +6,4 @@ Allegrow logo in 3 files
 * .txt : ASCII art
 
 ## Shell script
-Remeber to update file permissions for script to run and display the ASCII art
+Remember to update file permissions for script to run and display the ASCII art
